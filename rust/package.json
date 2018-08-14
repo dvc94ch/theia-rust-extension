@@ -1,6 +1,6 @@
 {
-  "name": "@theia/rust",
-  "version": "0.3.10",
+  "name": "theia-rust",
+  "version": "0.3.11",
   "description": "Theia - Rust Extension",
   "license": "Apache-2.0",
   "keywords": [
